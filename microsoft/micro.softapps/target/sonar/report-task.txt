@@ -1,0 +1,6 @@
+projectKey=microsoft.devops:micro.softapps
+serverUrl=http://192.168.1.250:11000
+serverVersion=7.8.0.26217
+dashboardUrl=http://192.168.1.250:11000/dashboard?id=microsoft.devops%3Amicro.softapps
+ceTaskId=AX-T5LtK2c5b0i6XXsBI
+ceTaskUrl=http://192.168.1.250:11000/api/ce/task?id=AX-T5LtK2c5b0i6XXsBI

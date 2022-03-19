@@ -1,0 +1,6 @@
+projectKey=fintech.webapps:fintech.pro
+serverUrl=http://192.168.1.250:11000
+serverVersion=7.8.0.26217
+dashboardUrl=http://192.168.1.250:11000/dashboard?id=fintech.webapps%3Afintech.pro
+ceTaskId=AX-Tb-e32c5b0i6XXsA_
+ceTaskUrl=http://192.168.1.250:11000/api/ce/task?id=AX-Tb-e32c5b0i6XXsA_
